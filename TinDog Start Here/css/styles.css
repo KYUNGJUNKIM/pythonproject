@@ -1,0 +1,147 @@
+/* Main Page */
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.container {
+    padding: 2% 20% 0% 20%;
+}
+
+
+/* Navigation Bar */
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    padding-left: 9%;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+/* Buttons */
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-image {
+    width: 20%;
+    transform: rotate(20deg);
+    position: absolute;
+}
+
+/* features */
+#features{
+    font-weight: 400;
+    padding: 5% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+.fa-solid{
+    color: #ef8172;
+    margin-bottom: 2rem;
+}
+
+.fa-solid:hover {
+    color: #ff4c68;
+}
+
+p {
+    color: #8f8f8f;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+/* testimonials */
+#testimonials {
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-text{
+    font-weight: 800;
+    font-size: 3rem;
+    padding: 0% 10% 1% 10%;
+}
+
+.carousel-inner{
+    padding: 7% 15%;
+}
+
+.testimonial-image{
+    margin: 20px;
+    width: 10%;
+    border-radius: 100%;
+}
+
+#press {
+    background-color: #ef8172;
+}
+
+.press-logo{
+    width: 12%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing */
+#pricing {
+    padding: 7%;
+}
+
+.row{
+    padding: 5% 9%;
+}
+
+.card-header h3 {
+    font-weight: 700;
+}
+
+.price-text {
+    font-weight: 800;
+    font-size: 3rem;
+    padding: 3%;
+}
+
+.card {
+    width: 22rem;
+}
+
+
+
+/* CTA & Footer */
+#cta {
+    background-color: #ff4c68;
+    color: white;
+    padding: 5% 10% 0% 10%;
+}
+
+#footer {
+    padding: 3% 15%;
+    background-color: #fff;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+/* Using Media */
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .title-image{
+        position: static;
+        width: 40%;
+        transform: rotate(0);
+    }
+}

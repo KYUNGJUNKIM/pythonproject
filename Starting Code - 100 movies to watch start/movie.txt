@@ -1,0 +1,100 @@
+1) Title: Godfather, The, url: /web/20200518073855/https://www.empireonline.com/movies/godfather/
+2) Title: Star Wars Episode V: The Empire Strikes Back, url: /web/20200518073855/https://www.empireonline.com/movies/star-wars-episode-v-empire-strikes-back/
+3) Title: Dark Knight, The, url: /web/20200518073855/https://www.empireonline.com/movies/dark-knight/
+4) Title: Shawshank Redemption, The, url: /web/20200518073855/https://www.empireonline.com/movies/shawshank-redemption/
+5) Title: Pulp Fiction, url: /web/20200518073855/https://www.empireonline.com/movies/pulp-fiction/
+6) Title: Goodfellas, url: /web/20200518073855/https://www.empireonline.com/movies/goodfellas/
+7) Title: Raiders Of The Lost Ark, url: /web/20200518073855/https://www.empireonline.com/movies/raiders-lost-ark/
+8) Title: Jaws, url: /web/20200518073855/https://www.empireonline.com/movies/jaws/
+9) Title: Star Wars Episode IV: A New Hope, url: /web/20200518073855/https://www.empireonline.com/movies/star-wars-episode-iv-new-hope/
+10) Title: Lord Of The Rings: The Fellowship Of The Ring, url: /web/20200518073855/https://www.empireonline.com/movies/lord-rings-fellowship-ring/
+11) Title: Back To The Future, url: /web/20200518073855/https://www.empireonline.com/movies/back-future/
+12) Title: Godfather Part II, The, url: /web/20200518073855/https://www.empireonline.com/movies/godfather-part-ii-2/
+13) Title: Blade Runner, url: /web/20200518073855/https://www.empireonline.com/movies/blade-runner/
+14) Title: Alien, url: /web/20200518073855/https://www.empireonline.com/movies/alien/
+15) Title: Aliens, url: /web/20200518073855/https://www.empireonline.com/movies/aliens/
+16) Title: Lord Of The Rings: The Return Of The King, url: /web/20200518073855/https://www.empireonline.com/movies/lord-rings-return-king/
+17) Title: Fight Club, url: /web/20200518073855/https://www.empireonline.com/movies/fight-club/
+18) Title: Inception, url: /web/20200518073855/https://www.empireonline.com/movies/inception/
+19) Title: Jurassic Park, url: /web/20200518073855/https://www.empireonline.com/movies/jurassic-park-2/
+20) Title: Die Hard, url: /web/20200518073855/https://www.empireonline.com/movies/die-hard/
+21) Title: 2001: A Space Odyssey, url: /web/20200518073855/https://www.empireonline.com/movies/2001-space-odyssey/
+22) Title: Apocalypse Now, url: /web/20200518073855/https://www.empireonline.com/movies/apocalypse-now/
+23) Title: Lord Of The Rings: The Two Towers, url: /web/20200518073855/https://www.empireonline.com/movies/lord-rings-two-towers/
+24) Title: Matrix, The, url: /web/20200518073855/https://www.empireonline.com/movies/matrix/
+25) Title: Terminator 2: Judgment Day, url: /web/20200518073855/https://www.empireonline.com/movies/terminator-2-judgment-day/
+26) Title: Heat, url: /web/20200518073855/https://www.empireonline.com/movies/heat/
+27) Title: Good, The Bad & The Ugly, The, url: /web/20200518073855/https://www.empireonline.com/movies/good-bad-ugly-2/
+28) Title: Casablanca, url: /web/20200518073855/https://www.empireonline.com/movies/casablanca-2/
+29) Title: Big Lebowski, The, url: /web/20200518073855/https://www.empireonline.com/movies/big-lebowski/
+30) Title: Seven, url: /web/20200518073855/https://www.empireonline.com/movies/seven/
+31) Title: Taxi Driver, url: /web/20200518073855/https://www.empireonline.com/movies/taxi-driver/
+32) Title: Usual Suspects, The, url: /web/20200518073855/https://www.empireonline.com/movies/usual-suspects/
+33) Title: Schindler's List, url: /web/20200518073855/https://www.empireonline.com/movies/schindler-list/
+34) Title: Guardians Of The Galaxy, url: /web/20200518073855/https://www.empireonline.com/movies/guardians-galaxy/
+35) Title: Shining, The, url: /web/20200518073855/https://www.empireonline.com/movies/shining-2/
+36) Title: Departed, The, url: /web/20200518073855/https://www.empireonline.com/movies/departed/
+37) Title: Thing, The, url: /web/20200518073855/https://www.empireonline.com/movies/thing-3/
+38) Title: Mad Max: Fury Road, url: /web/20200518073855/https://www.empireonline.com/movies/mad-max-fury-road/
+39) Title: Saving Private Ryan, url: /web/20200518073855/https://www.empireonline.com/movies/saving-private-ryan/
+40) Title: 12 Angry Men , url: /web/20200518073855/https://www.empireonline.com/movies/twelve-angry-men/
+41) Title: Eternal Sunshine Of The Spotless Mind, url: /web/20200518073855/https://www.empireonline.com/movies/eternal-sunshine-spotless-mind/
+42) Title: There Will Be Blood, url: /web/20200518073855/https://www.empireonline.com/movies/will-blood/
+43) Title: One Flew Over The Cuckoo's Nest , url: /web/20200518073855/https://www.empireonline.com/movies/one-flew-cuckoo-nest/
+44) Title: Gladiator, url: /web/20200518073855/https://www.empireonline.com/movies/gladiator/
+45) Title: Drive, url: /web/20200518073855/https://www.empireonline.com/movies/drive/
+46) Title: Citizen Kane, url: /web/20200518073855/https://www.empireonline.com/movies/citizen-kane/
+47) Title: Interstellar, url: /web/20200518073855/https://www.empireonline.com/movies/interstellar/
+48) Title: Silence Of The Lambs, The, url: /web/20200518073855/https://www.empireonline.com/movies/silence-lambs/
+49) Title: Trainspotting, url: /web/20200518073855/https://www.empireonline.com/movies/trainspotting/
+50) Title: Lawrence Of Arabia, url: /web/20200518073855/https://www.empireonline.com/movies/lawrence-arabia-2/
+51) Title: It's A Wonderful Life, url: /web/20200518073855/https://www.empireonline.com/movies/wonderful-life/
+52) Title: Once Upon A Time in the West, url: /web/20200518073855/https://www.empireonline.com/movies/upon-time-west/
+53) Title: Psycho , url: /web/20200518073855/https://www.empireonline.com/movies/psycho/
+54) Title: Vertigo, url: /web/20200518073855/https://www.empireonline.com/movies/vertigo/
+55) Title: Pan's Labyrinth, url: /web/20200518073855/https://www.empireonline.com/movies/pan-labyrinth/
+56) Title: Reservoir Dogs, url: /web/20200518073855/https://www.empireonline.com/movies/empire-essay-reservoir-dogs/
+57) Title: Whiplash, url: /web/20200518073855/https://www.empireonline.com/movies/whiplash/
+58) Title: Inglourious Basterds, url: /web/20200518073855/https://www.empireonline.com/movies/inglourious-basterds/
+59) Title: E.T. The Extra Terrestrial, url: /web/20200518073855/https://www.empireonline.com/movies/et-extra-terrestrial/
+60) Title: American Beauty, url: /web/20200518073855/https://www.empireonline.com/movies/american-beauty/
+61) Title: Forrest Gump, url: /web/20200518073855/https://www.empireonline.com/movies/forrest-gump/
+62) Title: La La Land, url: /web/20200518073855/https://www.empireonline.com/movies/la-la-land/
+63) Title: Donnie Darko, url: /web/20200518073855/https://www.empireonline.com/movies/donnie-darko/
+64) Title: L.A. Confidential, url: /web/20200518073855/https://www.empireonline.com/movies/l-confidential/
+65) Title: Avengers, The, url: /web/20200518073855/https://www.empireonline.com/movies/avengers/
+66) Title: Star Wars Episode VI: Return Of The Jedi, url: /web/20200518073855/https://www.empireonline.com/movies/star-wars-episode-vi-return-jedi/
+67) Title: Memento, url: /web/20200518073855/https://www.empireonline.com/movies/memento/
+68) Title: Ghostbusters, url: /web/20200518073855/https://www.empireonline.com/movies/ghostbusters/
+69) Title: Singin' In The Rain, url: /web/20200518073855/https://www.empireonline.com/movies/singin-rain/
+70) Title: The Lion King , url: /web/20200518073855/https://www.empireonline.com/movies/lion-king/
+71) Title: Hot Fuzz, url: /web/20200518073855/https://www.empireonline.com/movies/hot-fuzz/
+72) Title: Rear Window, url: /web/20200518073855/https://www.empireonline.com/movies/rear-window/
+73) Title: Seven Samurai, url: /web/20200518073855/https://www.empireonline.com/movies/seven-samurai/
+74) Title: Mulholland Drive, url: /web/20200518073855/https://www.empireonline.com/movies/mulholland-drive/
+75) Title: Fargo, url: /web/20200518073855/https://www.empireonline.com/movies/fargo/
+76) Title: A Clockwork Orange, url: /web/20200518073855/https://www.empireonline.com/movies/clockwork-orange/
+77) Title: Toy Story, url: /web/20200518073855/https://www.empireonline.com/movies/toy-story/
+78) Title: Oldboy, url: /web/20200518073855/https://www.empireonline.com/movies/oldboy-2/
+79) Title: Captain America: Civil War, url: /web/20200518073855/https://www.empireonline.com/movies/captain-america-civil-war/
+80) Title: Spirited Away, url: /web/20200518073855/https://www.empireonline.com/movies/spirited-away/
+81) Title: Social Network, The, url: /web/20200518073855/https://www.empireonline.com/movies/social-network/
+82) Title: Some Like It Hot, url: /web/20200518073855/https://www.empireonline.com/movies/like-hot-2/
+83) Title: True Romance, url: /web/20200518073855/https://www.empireonline.com/movies/true-romance/
+84) Title: Rocky, url: /web/20200518073855/https://www.empireonline.com/movies/rocky/
+85) Title: Leon, url: /web/20200518073855/https://www.empireonline.com/movies/leon/
+86) Title: Indiana Jones and the Last Crusade, url: /web/20200518073855/https://www.empireonline.com/movies/indiana-jones-last-crusade/
+87) Title: Predator, url: /web/20200518073855/https://www.empireonline.com/movies/predator/
+88) Title: EMPIRE ESSAY: Exorcist, The, url: /web/20200518073855/https://www.empireonline.com/movies/empire-essay-exorcist/
+89) Title: Shaun of the Dead, url: /web/20200518073855/https://www.empireonline.com/movies/shaun-dead/
+90) Title: No Country For Old Men, url: /web/20200518073855/https://www.empireonline.com/movies/country-old-men/
+91) Title: Prestige, The, url: /web/20200518073855/https://www.empireonline.com/movies/prestige/
+92) Title: EMPIRE ESSAY: The Terminator, url: /web/20200518073855/https://www.empireonline.com/movies/terminator/
+93) Title: Princess Bride, The, url: /web/20200518073855/https://www.empireonline.com/movies/princess-bride/
+94) Title: Lost in Translation, url: /web/20200518073855/https://www.empireonline.com/movies/lost-translation/
+95) Title: Arrival, url: /web/20200518073855/https://www.empireonline.com/movies/arrival-2/
+96) Title: Good Will Hunting, url: /web/20200518073855/https://www.empireonline.com/movies/good-will-hunting/
+97) Title: Titanic, url: /web/20200518073855/https://www.empireonline.com/movies/titanic-2/
+98) Title: Amelie, url: /web/20200518073855/https://www.empireonline.com/movies/amelie/
+99) Title: Raging Bull, url: /web/20200518073855/https://www.empireonline.com/movies/raging-bull/
+100) Title: Stand By Me, url: /web/20200518073855/https://www.empireonline.com/movies/stand/
