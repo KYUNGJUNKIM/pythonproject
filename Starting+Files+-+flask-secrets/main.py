@@ -1,46 +1,37 @@
 from flask import Flask, render_template
 from flask_wtf import FlaskForm
-from wtforms import StringField
-from flask_wtf.file import FileField, FileRequired
-from werkzeug.utils import secure_filename
-import os
+from wtforms import StringField, PasswordField, SubmitField
+from wtforms.validators import DataRequired, Length, Email
+from flask_bootstrap import Bootstrap
 
 
 class LoginForm(FlaskForm):
-    email = StringField('Email')
-    password = StringField('Password')
+    email = StringField(label='Email', validators=[DataRequired(), Email()])
+    password = PasswordField(label='Password',
+                             validators=[DataRequired(), Length(min=8, message="At least 8 characters required")])
+    submit = SubmitField(label="Log in")
 
 
 app = Flask(__name__)
+Bootstrap(app)
+app.secret_key = "string"
 
 
 @app.route("/")
 def home():
-    return render_template('index.html')
+    return render_template("index.html")
 
 
-@app.route('/login')
+@app.route("/login", methods=["GET", "POST"])
 def login():
     login_form = LoginForm()
+    if login_form.validate_on_submit():
+        if login_form.email.data == "admin@email.com" and login_form.password.data == "12345678":
+            return render_template("success.html")
+        else:
+            return render_template("denied.html")
     return render_template('login.html', form=login_form)
 
-# class PhotoForm(FlaskForm):
-#     photo = FileField(validators=[FileRequired()])
-#
-#
-# @app.route('/upload', methods=['GET', 'POST'])
-# def upload():
-#     form = PhotoForm()
-#
-#     if form.validate_on_submit():
-#         f = form.photo.data
-#         filename = secure_filename(f.filename)
-#         f.save(os.path.join(
-#             app.instance_path, 'photos', filename
-#         ))
-#         return redirect(url_for('index'))
-#
-#     return render_template('upload.html', form=form)
 
 
 if __name__ == '__main__':
